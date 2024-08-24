@@ -49,7 +49,7 @@ def banall(bot,message):
 
 @blaze.on_message(filters.command("alive"))
 async def alive(bot, message):
-    await message.reply("**Am Alive ❣️**\n\nᴄᴏᴘʏʀɪɢʜᴛꜱ ʀᴇᴍᴏᴠᴇʀ ʙᴏᴛ ᴍᴀᴅᴇ ᴡɪᴛʜ 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝙵𝙾𝚁  𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙲𝙷𝙰𝚃𝚂 𝙳\n[Source Code🚀](https://github.com/Elric-xD/Banall)")
+    await message.reply("**Am Alive ❣️**\n\nᴄᴏᴘʏʀɪɢʜᴛꜱ ʀᴇᴍᴏᴠᴇʀ ʙᴏᴛ ᴍᴀᴅᴇ ᴡɪᴛʜ 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝙵𝙾𝚁  𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙲𝙷𝙰𝚃𝚂 𝙳\n[Source Code🚀](t.me/ThunderBoltFantasy)")
 
 
 
